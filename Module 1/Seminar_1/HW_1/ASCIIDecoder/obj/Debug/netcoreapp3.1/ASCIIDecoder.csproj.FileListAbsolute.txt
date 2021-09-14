@@ -1,0 +1,13 @@
+C:\Users\rusan\source\repos\HW_1\Task03\bin\Debug\netcoreapp3.1\ASCIIDecoder.exe
+C:\Users\rusan\source\repos\HW_1\Task03\bin\Debug\netcoreapp3.1\ASCIIDecoder.deps.json
+C:\Users\rusan\source\repos\HW_1\Task03\bin\Debug\netcoreapp3.1\ASCIIDecoder.runtimeconfig.json
+C:\Users\rusan\source\repos\HW_1\Task03\bin\Debug\netcoreapp3.1\ASCIIDecoder.runtimeconfig.dev.json
+C:\Users\rusan\source\repos\HW_1\Task03\bin\Debug\netcoreapp3.1\ASCIIDecoder.dll
+C:\Users\rusan\source\repos\HW_1\Task03\bin\Debug\netcoreapp3.1\ASCIIDecoder.pdb
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.csproj.AssemblyReference.cache
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.AssemblyInfoInputs.cache
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.AssemblyInfo.cs
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.csproj.CoreCompileInputs.cache
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.dll
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.pdb
+C:\Users\rusan\source\repos\HW_1\Task03\obj\Debug\netcoreapp3.1\ASCIIDecoder.genruntimeconfig.cache
