@@ -29,9 +29,7 @@ namespace Task01_02
             return(ans);
 
         }
-            
-     
-
+               
         static void Main(string[] args)
         {
             while(true)
