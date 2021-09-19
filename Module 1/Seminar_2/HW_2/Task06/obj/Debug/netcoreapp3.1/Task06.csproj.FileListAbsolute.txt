@@ -1,0 +1,13 @@
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.AssemblyInfoInputs.cache
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.AssemblyInfo.cs
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.csproj.CoreCompileInputs.cache
+C:\Users\rusan\source\repos\HW_2\Task06\bin\Debug\netcoreapp3.1\Task06.exe
+C:\Users\rusan\source\repos\HW_2\Task06\bin\Debug\netcoreapp3.1\Task06.deps.json
+C:\Users\rusan\source\repos\HW_2\Task06\bin\Debug\netcoreapp3.1\Task06.runtimeconfig.json
+C:\Users\rusan\source\repos\HW_2\Task06\bin\Debug\netcoreapp3.1\Task06.runtimeconfig.dev.json
+C:\Users\rusan\source\repos\HW_2\Task06\bin\Debug\netcoreapp3.1\Task06.dll
+C:\Users\rusan\source\repos\HW_2\Task06\bin\Debug\netcoreapp3.1\Task06.pdb
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.dll
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.pdb
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.genruntimeconfig.cache
+C:\Users\rusan\source\repos\HW_2\Task06\obj\Debug\netcoreapp3.1\Task06.csproj.AssemblyReference.cache

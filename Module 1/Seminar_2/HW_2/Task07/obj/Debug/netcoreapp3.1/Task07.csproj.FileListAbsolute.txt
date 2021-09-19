@@ -1,0 +1,13 @@
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.csproj.AssemblyReference.cache
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.AssemblyInfoInputs.cache
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.AssemblyInfo.cs
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.csproj.CoreCompileInputs.cache
+C:\Users\rusan\source\repos\HW_2\Task07\bin\Debug\netcoreapp3.1\Task07.exe
+C:\Users\rusan\source\repos\HW_2\Task07\bin\Debug\netcoreapp3.1\Task07.deps.json
+C:\Users\rusan\source\repos\HW_2\Task07\bin\Debug\netcoreapp3.1\Task07.runtimeconfig.json
+C:\Users\rusan\source\repos\HW_2\Task07\bin\Debug\netcoreapp3.1\Task07.runtimeconfig.dev.json
+C:\Users\rusan\source\repos\HW_2\Task07\bin\Debug\netcoreapp3.1\Task07.dll
+C:\Users\rusan\source\repos\HW_2\Task07\bin\Debug\netcoreapp3.1\Task07.pdb
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.dll
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.pdb
+C:\Users\rusan\source\repos\HW_2\Task07\obj\Debug\netcoreapp3.1\Task07.genruntimeconfig.cache
