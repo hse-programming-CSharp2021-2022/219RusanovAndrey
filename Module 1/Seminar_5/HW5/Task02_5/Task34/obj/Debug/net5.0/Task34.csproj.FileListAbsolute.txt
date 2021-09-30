@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\Task34.exe
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\Task34.deps.json
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\Task34.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\Task34.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\Task34.dll
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\ref\Task34.dll
+C:\Users\rusan\RiderProjects\Task34\Task34\bin\Debug\net5.0\Task34.pdb
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.dll
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\ref\Task34.dll
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.pdb
+C:\Users\rusan\RiderProjects\Task34\Task34\obj\Debug\net5.0\Task34.genruntimeconfig.cache
