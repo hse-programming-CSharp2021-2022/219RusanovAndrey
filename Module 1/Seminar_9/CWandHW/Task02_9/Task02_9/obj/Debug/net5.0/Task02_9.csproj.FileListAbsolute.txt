@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\Task02_9.exe
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\Task02_9.deps.json
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\Task02_9.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\Task02_9.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\Task02_9.dll
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\ref\Task02_9.dll
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\bin\Debug\net5.0\Task02_9.pdb
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.dll
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\ref\Task02_9.dll
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.pdb
+C:\Users\rusan\RiderProjects\Task02_9\Task02_9\obj\Debug\net5.0\Task02_9.genruntimeconfig.cache
