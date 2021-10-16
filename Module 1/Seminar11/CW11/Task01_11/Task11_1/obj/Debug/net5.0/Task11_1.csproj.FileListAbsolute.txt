@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\Task11_1.exe
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\Task11_1.deps.json
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\Task11_1.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\Task11_1.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\Task11_1.dll
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\ref\Task11_1.dll
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\bin\Debug\net5.0\Task11_1.pdb
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.dll
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\ref\Task11_1.dll
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.pdb
+C:\Users\rusan\RiderProjects\Task11_1\Task11_1\obj\Debug\net5.0\Task11_1.genruntimeconfig.cache
