@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\Spiral_Matrix.exe
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\Spiral_Matrix.deps.json
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\Spiral_Matrix.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\Spiral_Matrix.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\Spiral_Matrix.dll
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\ref\Spiral_Matrix.dll
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\bin\Debug\net5.0\Spiral_Matrix.pdb
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.dll
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\ref\Spiral_Matrix.dll
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.pdb
+C:\Users\rusan\RiderProjects\Spiral_Matrix\Spiral_Matrix\obj\Debug\net5.0\Spiral_Matrix.genruntimeconfig.cache
