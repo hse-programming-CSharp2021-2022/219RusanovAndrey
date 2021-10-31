@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\Point.exe
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\Point.deps.json
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\Point.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\Point.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\Point.dll
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\ref\Point.dll
+C:\Users\rusan\RiderProjects\Point\Point\bin\Debug\net5.0\Point.pdb
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.dll
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\ref\Point.dll
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.pdb
+C:\Users\rusan\RiderProjects\Point\Point\obj\Debug\net5.0\Point.genruntimeconfig.cache

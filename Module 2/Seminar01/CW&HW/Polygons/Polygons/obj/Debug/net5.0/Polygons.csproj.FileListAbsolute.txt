@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\Polygons.exe
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\Polygons.deps.json
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\Polygons.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\Polygons.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\Polygons.dll
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\ref\Polygons.dll
+C:\Users\rusan\RiderProjects\Polygons\Polygons\bin\Debug\net5.0\Polygons.pdb
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.dll
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\ref\Polygons.dll
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.pdb
+C:\Users\rusan\RiderProjects\Polygons\Polygons\obj\Debug\net5.0\Polygons.genruntimeconfig.cache
