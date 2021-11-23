@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{0EF4F9C9-0CC0-431E-A2AF-71AC03F9956D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF4F9C9-0CC0-431E-A2AF-71AC03F9956D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF4F9C9-0CC0-431E-A2AF-71AC03F9956D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF4F9C9-0CC0-431E-A2AF-71AC03F9956D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF4F9C9-0CC0-431E-A2AF-71AC03F9956D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
