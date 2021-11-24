@@ -38,19 +38,18 @@ namespace Task2_7
                     int r = random.Next(0, 10);
                     if (r <= 1)
                     {
-                        creatures[i] = new Creature(GenerateName(), random.Next(10, 19));
+                        creatures[i] = new Creature(GenerateName(), random.Next(10, 18) + Math.Round(random.NextDouble(),2));
                     }
                     else if (r >= 2 && r <= 5)
                     {
-                        creatures[i] = new Dwarf(GenerateName(), random.Next(10, 19), random.Next(-50, 51));
+                        creatures[i] = new Dwarf(GenerateName(), random.Next(10, 18) + Math.Round(random.NextDouble(),2), random.Next(-50, 51));
                     }
                     else
                     {
-                        creatures[i] = new Elf(GenerateName(), random.Next(10, 19));
+                        creatures[i] = new Elf(GenerateName(), random.Next(10, 18) + Math.Round(random.NextDouble(),2));
                     }
                 }
 
-               
 
                 foreach (var creature in creatures)
                 {

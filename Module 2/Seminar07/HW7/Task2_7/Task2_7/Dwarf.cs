@@ -5,12 +5,12 @@ namespace Task2_7
     public class Dwarf : Creature
     {
         private int _strenght;
+
         public Dwarf(string name, double speed, int strength) : base(name, speed)
         {
-            
             Strength = strength;
         }
-        
+
         public int Strength
         {
             get => _strenght;
@@ -26,8 +26,6 @@ namespace Task2_7
                     _strenght = random.Next(1, 21);
                 }
             }
-
-
         }
 
         public static void MakeNewStaff()
@@ -37,12 +35,8 @@ namespace Task2_7
 
         public override string Run()
         {
-            return $"I am running with a speed of {_speed}. My strength is {_strenght}";
+            return $"I am running with a speed of {_speed}. My strength is {_strenght}.";
         }
-        
-        public override string ToString()
-        {
-            return $"{Run()}. My name is {_name}.";
-        }
+
     }
 }
