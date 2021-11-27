@@ -72,8 +72,6 @@ namespace Exceptions
             {
                 Console.WriteLine("Неверный формат!");
             }
-
-
             try
             {
                 string s = null;

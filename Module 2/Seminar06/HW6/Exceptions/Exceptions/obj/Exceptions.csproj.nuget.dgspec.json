@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rusan\\RiderProjects\\Exceptions\\Exceptions\\Exceptions.csproj": {}
+    "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar06\\HW6\\Exceptions\\Exceptions\\Exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rusan\\RiderProjects\\Exceptions\\Exceptions\\Exceptions.csproj": {
+    "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar06\\HW6\\Exceptions\\Exceptions\\Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rusan\\RiderProjects\\Exceptions\\Exceptions\\Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar06\\HW6\\Exceptions\\Exceptions\\Exceptions.csproj",
         "projectName": "Exceptions",
-        "projectPath": "C:\\Users\\rusan\\RiderProjects\\Exceptions\\Exceptions\\Exceptions.csproj",
+        "projectPath": "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar06\\HW6\\Exceptions\\Exceptions\\Exceptions.csproj",
         "packagesPath": "C:\\Users\\rusan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rusan\\RiderProjects\\Exceptions\\Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar06\\HW6\\Exceptions\\Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rusan\\AppData\\Roaming\\NuGet\\NuGet.Config",
