@@ -10,20 +10,20 @@
   "packageFolders": {
     "C:\\Users\\rusan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rusan\\RiderProjects\\Task2_7\\Task2_7\\Task2_7.csproj",
+      "projectUniqueName": "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar07\\HW7\\Task2_7\\Task2_7\\Task2_7.csproj",
       "projectName": "Task2_7",
-      "projectPath": "C:\\Users\\rusan\\RiderProjects\\Task2_7\\Task2_7\\Task2_7.csproj",
+      "projectPath": "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar07\\HW7\\Task2_7\\Task2_7\\Task2_7.csproj",
       "packagesPath": "C:\\Users\\rusan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rusan\\RiderProjects\\Task2_7\\Task2_7\\obj\\",
+      "outputPath": "C:\\Users\\rusan\\Desktop\\C#\\219RusanovAndrey\\Module 2\\Seminar07\\HW7\\Task2_7\\Task2_7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\rusan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,7 +15,6 @@ namespace Task2_7
             {
                 name += Convert.ToChar(random.Next(97, 123));
             }
-
             return name;
         }
 
