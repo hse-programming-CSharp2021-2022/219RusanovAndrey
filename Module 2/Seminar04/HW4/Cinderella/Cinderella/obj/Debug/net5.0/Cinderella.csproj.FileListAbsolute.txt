@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\Cinderella.exe
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\Cinderella.deps.json
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\Cinderella.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\Cinderella.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\Cinderella.dll
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\ref\Cinderella.dll
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\bin\Debug\net5.0\Cinderella.pdb
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.dll
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\ref\Cinderella.dll
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.pdb
+C:\Users\rusan\RiderProjects\Cinderella\Cinderella\obj\Debug\net5.0\Cinderella.genruntimeconfig.cache
