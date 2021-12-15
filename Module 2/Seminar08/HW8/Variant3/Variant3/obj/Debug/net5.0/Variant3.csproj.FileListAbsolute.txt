@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\Variant3.exe
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\Variant3.deps.json
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\Variant3.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\Variant3.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\Variant3.dll
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\ref\Variant3.dll
+C:\Users\rusan\RiderProjects\Variant3\Variant3\bin\Debug\net5.0\Variant3.pdb
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.dll
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\ref\Variant3.dll
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.pdb
+C:\Users\rusan\RiderProjects\Variant3\Variant3\obj\Debug\net5.0\Variant3.genruntimeconfig.cache
