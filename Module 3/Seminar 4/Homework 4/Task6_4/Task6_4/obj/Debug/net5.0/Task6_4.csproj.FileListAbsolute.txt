@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\Task6_4.exe
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\Task6_4.deps.json
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\Task6_4.runtimeconfig.json
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\Task6_4.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\Task6_4.dll
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\ref\Task6_4.dll
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\bin\Debug\net5.0\Task6_4.pdb
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.dll
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\ref\Task6_4.dll
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.pdb
+C:\Users\rusan\RiderProjects\Task6_4\Task6_4\obj\Debug\net5.0\Task6_4.genruntimeconfig.cache
