@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\HW36.exe
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\HW36.deps.json
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\HW36.runtimeconfig.json
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\HW36.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\HW36.dll
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\ref\HW36.dll
+C:\Users\rusan\RiderProjects\HW36\HW36\bin\Debug\net5.0\HW36.pdb
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.dll
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\ref\HW36.dll
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.pdb
+C:\Users\rusan\RiderProjects\HW36\HW36\obj\Debug\net5.0\HW36.genruntimeconfig.cache
