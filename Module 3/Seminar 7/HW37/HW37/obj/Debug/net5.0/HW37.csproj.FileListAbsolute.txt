@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\HW37.exe
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\HW37.deps.json
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\HW37.runtimeconfig.json
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\HW37.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\HW37.dll
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\ref\HW37.dll
+C:\Users\rusan\RiderProjects\HW37\HW37\bin\Debug\net5.0\HW37.pdb
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.dll
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\ref\HW37.dll
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.pdb
+C:\Users\rusan\RiderProjects\HW37\HW37\obj\Debug\net5.0\HW37.genruntimeconfig.cache
