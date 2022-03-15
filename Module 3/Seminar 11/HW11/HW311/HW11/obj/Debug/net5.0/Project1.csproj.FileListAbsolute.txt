@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\Project1.exe
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\Project1.deps.json
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\Project1.runtimeconfig.json
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\Project1.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\Project1.dll
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\ref\Project1.dll
+C:\Users\rusan\RiderProjects\HW11\Project1\bin\Debug\net5.0\Project1.pdb
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.dll
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\ref\Project1.dll
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.pdb
+C:\Users\rusan\RiderProjects\HW11\Project1\obj\Debug\net5.0\Project1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\HW312.exe
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\HW312.deps.json
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\HW312.runtimeconfig.json
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\HW312.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\HW312.dll
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\ref\HW312.dll
+C:\Users\rusan\RiderProjects\HW312\HW312\bin\Debug\net5.0\HW312.pdb
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.dll
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\ref\HW312.dll
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.pdb
+C:\Users\rusan\RiderProjects\HW312\HW312\obj\Debug\net5.0\HW312.genruntimeconfig.cache

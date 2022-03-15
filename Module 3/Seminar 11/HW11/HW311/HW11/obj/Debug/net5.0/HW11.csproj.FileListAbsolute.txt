@@ -1,0 +1,32 @@
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\HW11.exe
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\HW11.deps.json
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\HW11.runtimeconfig.json
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\HW11.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\HW11.dll
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\ref\HW11.dll
+C:\Users\rusan\RiderProjects\HW11\HW11\bin\Debug\net5.0\HW11.pdb
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.dll
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\ref\HW11.dll
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.pdb
+C:\Users\rusan\RiderProjects\HW11\HW11\obj\Debug\net5.0\HW11.genruntimeconfig.cache
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\HW11.exe
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\HW11.deps.json
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\HW11.runtimeconfig.json
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\HW11.runtimeconfig.dev.json
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\HW11.dll
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\ref\HW11.dll
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\bin\Debug\net5.0\HW11.pdb
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.csproj.AssemblyReference.cache
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.AssemblyInfoInputs.cache
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.AssemblyInfo.cs
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.csproj.CoreCompileInputs.cache
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.dll
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\ref\HW11.dll
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.pdb
+C:\Users\rusan\Desktop\C#\219RusanovAndrey\Module 3\Seminar 11\HW11\HW311\HW11\obj\Debug\net5.0\HW11.genruntimeconfig.cache

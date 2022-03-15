@@ -1,0 +1,16 @@
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\HW314.exe
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\HW314.deps.json
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\HW314.runtimeconfig.json
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\HW314.runtimeconfig.dev.json
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\HW314.dll
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\ref\HW314.dll
+C:\Users\rusan\RiderProjects\HW314\HW314\bin\Debug\net5.0\HW314.pdb
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.csproj.AssemblyReference.cache
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.AssemblyInfoInputs.cache
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.AssemblyInfo.cs
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.csproj.CoreCompileInputs.cache
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.dll
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\ref\HW314.dll
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.pdb
+C:\Users\rusan\RiderProjects\HW314\HW314\obj\Debug\net5.0\HW314.genruntimeconfig.cache
